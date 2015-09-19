@@ -22,7 +22,7 @@ excerpt_link: Read More
 comment_link: Comments
 
 # header头像
-avatar: /assets/img/avatar/avatar.jpg
+avatar: /assets/avatar/avatar.png
 # header右侧图片展示
 ad: /assets/img/avatar/hello.jpg
 
@@ -46,7 +46,7 @@ duoshuo:
 
 wumii: 
   relateditems: false
-  siteprefix: http://www.linux2me.com
+  siteprefix: http://wudaijun.com
 
 
 #fancybox: false
