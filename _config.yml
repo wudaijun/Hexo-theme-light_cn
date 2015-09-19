@@ -8,6 +8,7 @@ submenu:
 # 订阅RSS: /atom.xml
 # 自定义: /customization
 # 个人简历: /resume  
+  关于我: /about
 
 
 widgets:
